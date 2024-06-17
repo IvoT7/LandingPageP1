@@ -1,0 +1,13 @@
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_66_803" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="-1" width="66" height="67">
+<path d="M0 -0.000297546H65.3333V65.333H0V-0.000297546Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_66_803)">
+<path d="M16.3887 4.45524C17.544 9.49407 22.0459 13.2563 27.4351 13.2563C32.8245 13.2563 37.3263 9.49407 38.4817 4.45524" stroke="#236AF5" stroke-width="3.82812" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.86802 44.9082L10.9508 43.7721C14.4374 41.8705 15.4754 37.3477 13.167 34.1158C11.6397 31.9777 12.0987 29.011 14.2009 27.4345C15.391 26.5419 16.0913 25.1412 16.0913 23.6537V23.6536C16.0913 21.0436 13.9754 18.9275 11.3652 18.9275H3.39648" stroke="#236AF5" stroke-width="3.82812" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M63.2543 35.5103C63.2543 35.5103 64.9705 49.648 57.3091 57.3095C49.6478 64.9708 35.51 63.2547 35.51 63.2547C35.51 63.2547 33.7938 49.1169 41.4552 41.4555C49.1167 33.7942 63.2543 35.5103 63.2543 35.5103Z" stroke="#236AF5" stroke-width="3.82812" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.5098 63.2544L50.8223 47.9419" stroke="#236AF5" stroke-width="3.82812" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M51.3771 36.2886C52.3976 33.5303 52.9557 30.5478 52.9557 27.4347C52.9557 13.34 41.5297 1.91392 27.4349 1.91392C13.3401 1.91392 1.91406 13.34 1.91406 27.4347C1.91406 41.5295 13.3401 52.9556 27.4349 52.9556C30.5479 52.9556 33.5304 52.3973 36.2887 51.377" stroke="#236AF5" stroke-width="3.82812" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49.9508 15.4253C44.5691 16.7706 39.8425 19.9888 36.6182 24.5028C35.3042 26.3426 33.1825 27.4344 30.9217 27.4344H28.9302C25.7554 27.4344 23.1816 30.008 23.1816 33.1828C23.1816 36.8104 26.5005 39.531 30.0575 38.8196H30.0576C34.0109 38.029 38.0568 39.2847 40.8631 42.084" stroke="#236AF5" stroke-width="3.82812" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
